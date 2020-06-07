@@ -1,0 +1,13 @@
+.Pokedeck-cards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Pokedeck-Winner{
+    color: rgb(38, 233, 38);
+}
+
+.Pokedeck-Loser{
+    color: rgb(233, 57, 233);
+}
